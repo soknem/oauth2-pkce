@@ -1,0 +1,6 @@
+rootProject.name = 'spring-security'
+include 'authorization-server'
+include 'client-server'
+include 'resource-server'
+include 'authorization-server-jpa'
+include 'resource-server-method-authorized'
